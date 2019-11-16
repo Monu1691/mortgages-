@@ -2,10 +2,10 @@
 
 <?php include_once('header.php'); ?>
 
-<section class="banner-sec common-sec" style="background-image:url(asset/img/Image-JPG.png);">
+<section class="banner-sec common-sec gitadd" style="background-image:url(asset/img/Image-JPG.png);">
 	<div class="container">
 		<div class="caption-bx text-center text-white">
-			<h1 class="page-title">About Us</h1>
+			<h1 class="page-title">About Usss</h1>
 			<div class="banner-desc">
 				Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 			</div>
